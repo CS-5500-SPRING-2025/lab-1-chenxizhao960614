@@ -16,22 +16,7 @@ Example - if a file called test.png was located in this folder:
 
 ## Task 0: Declare your AI Usage
 
-After you completed this lab, make sure to submit the AI declaration form via MS Form and also upload a PDF copy of your responses to this repository and include the link to PDF in this README file. Note, you must submit this form regardless if you use AI or not. Failure to submit this form will be considered a violation of AI course policy. More details about the AI-usage course policy can be found [here](https://parsa-rajabi.github.io/CS-5500/#/ai-policy).
-
-[Link to AI Usage Disclosure MS Form](https://parsa-rajabi.github.io/CS-5500/#/ai-policy?id=disclosure-of-ai-use)
-
-- You will need to log in with your SFU email to access the form. If you're unsuccessful, try using a different browser or incognito mode. Clearing your cache and cookies may also help.
-
-Name the file in the following format: 
-
-`L#_AI_Declaration_FirstName_LastName_StudentID.pdf`
-
-Example (Lab 3):
-
-`L3_AI_Declaration_Parsa_Rajabi_123456789.pdf`
-
-
-More detailed submission instructions can be found via the [lab page](https://parsa-rajabi.github.io/CS-5500/#/labs).
+[AI Declaration Form](https://github.com/CS-5500-SPRING-2025/lab-1-chenxizhao960614/blob/main/L1_AI_Declaration_Chenxi_Zhao_002207967.pdf)
 
 
 ## Task 1: Prepare your System (1 mark)
