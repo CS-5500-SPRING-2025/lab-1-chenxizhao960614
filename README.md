@@ -21,10 +21,7 @@ Example - if a file called test.png was located in this folder:
 
 ## Task 1: Prepare your System (1 mark)
 
-![](https://github.com/CS-5500-SPRING-2025/lab-1-chenxizhao960614/blob/main/images/Task1_1.png)
-![](https://github.com/CS-5500-SPRING-2025/lab-1-chenxizhao960614/blob/main/images/Task1_2.png)
-![](https://github.com/CS-5500-SPRING-2025/lab-1-chenxizhao960614/blob/main/images/Task1_3.png)
-[Task1](https://github.com/CS-5500-SPRING-2025/lab-1-chenxizhao960614/blob/main/Task%201.txt)
+![](https://github.com/CS-5500-SPRING-2025/lab-1-chenxizhao960614/blob/main/images/Task1.png)
 
 ## Task 2: GitHub Tutorial (24 marks)
 
