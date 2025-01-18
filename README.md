@@ -25,7 +25,9 @@ Example - if a file called test.png was located in this folder:
 
 ## Task 2: GitHub Tutorial (24 marks)
 
-Include screenshots as described in the [Lab 1](L1.md) file.
+![](https://github.com/CS-5500-SPRING-2025/lab-1-chenxizhao960614/blob/main/images/Task2_1.png)
+![](https://github.com/CS-5500-SPRING-2025/lab-1-chenxizhao960614/blob/main/images/Task2_2.png)
+
 
 ## Task 3: Lab Questions (11 marks)
 
