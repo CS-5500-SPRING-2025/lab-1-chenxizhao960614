@@ -37,22 +37,32 @@ Include answers as described in the [Lab 1](L1.md) file:
 Git is a distributed version control system that tracks changes to files, allowing collaboration and version history. GitHub is a cloud-based platform that hosts Git repositories, making it easier to collaborate and manage projects.
 
 ### Q2
+A distributed version control system allows every user to have a full copy of the repository, including its entire history. 
 
 ### Q3
+Modified: Changes have been made to files but not yet staged for commit.
+Staged: Files are marked to be included in the next commit.
+Committed: Changes are stored in the Git database.
 
 ### Q4
 
 #### Q4 (i)
+Copies a remote repository to the local machine.
 
 #### Q4 (ii)
+Shows the current state of the working directory and staged changes.
 
 #### Q4 (iii)
+Download changes from the remote to the local repository. 
 
 #### Q4 (iv)
+Creates a new Git repository in the current folder.
 
 #### Q4 (v)
+Displays a history of commits in the repository.
 
 ### Q5
+A .gitignore file lists files and directories that Git should ignore. It is used for excluding sensitive information, build files, or unnecessary system files.
 
 ## Task 4: Video Questions (4 marks)
 
