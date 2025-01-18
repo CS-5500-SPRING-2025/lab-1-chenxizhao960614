@@ -66,8 +66,8 @@ A .gitignore file lists files and directories that Git should ignore. It is used
 
 ## Task 4: Video Questions (4 marks)
 
-Include answers as described in the [Lab 1](L1.md) file.
-
 ### Q1
+The video provides an overview of the Software Development Life Cycle. It explains the key phases of SDLC, including planning, analysis, design, implementation, testing, deployment, and maintenance and detailedly illustrates how each phase is implemented. It also emphasizes the importance of each phase in ensuring that the final software product meets user requirements and is delivered on time and within budget.
 
 ### Q2
+SDLC ensures that the final product aligns with user requirements and is both reliable and maintainable. It provides a clear framework to follow, ensuring that teams work efficiently.
