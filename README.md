@@ -34,6 +34,7 @@ Example - if a file called test.png was located in this folder:
 Include answers as described in the [Lab 1](L1.md) file:
 
 ### Q1
+Git is a distributed version control system that tracks changes to files, allowing collaboration and version history. GitHub is a cloud-based platform that hosts Git repositories, making it easier to collaborate and manage projects.
 
 ### Q2
 
