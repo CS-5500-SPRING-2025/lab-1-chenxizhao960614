@@ -62,7 +62,7 @@ Creates a new Git repository in the current folder.
 Displays a history of commits in the repository.
 
 ### Q5
-A .gitignore file lists files and directories that Git should ignore. It is used for excluding sensitive information, build files, or unnecessary system files.
+A .gitignore file specify which files or parts of the project should be ignored by Git. It is used for excluding sensitive information, build files, or unnecessary system files.
 
 ## Task 4: Video Questions (4 marks)
 
